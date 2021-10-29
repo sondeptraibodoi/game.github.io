@@ -1,0 +1,587 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: xMag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-14 13:38+0000\n"
+"POT-Revision-Date: Fri Jul 08 2016 17:24:50 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:"
+"1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:"
+"1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/template-tags.php:109
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:72
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:92 inc/template-tags.php:98
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:124 inc/customizer.php:599
+msgid "Accent Color"
+msgstr ""
+
+#. To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:157
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:216
+msgid "Add widgets here to appear in your Sidebar."
+msgstr ""
+
+#: inc/customizer.php:361 inc/customizer.php:375
+msgid "After changing the size save and add a new image."
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Categories and Archives"
+msgstr ""
+
+#: inc/template-tags.php:94
+#, php-format
+msgid "Category: %1$s"
+msgstr ""
+
+#: inc/customizer.php:429 inc/customizer.php:469
+msgid "Classic: Large Posts + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Colors"
+msgstr ""
+
+#: comments.php:53 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Custom Background"
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Dark"
+msgstr ""
+
+#: functions.php:99
+msgid "Dark Gray"
+msgstr ""
+
+#: inc/customizer.php:525 inc/customizer.php:572
+msgid "Default"
+msgstr ""
+
+#. Author of the theme
+msgid "Design Lab"
+msgstr ""
+
+#: inc/customizer.php:510 inc/customizer.php:557
+msgid "Display Featured Image"
+msgstr ""
+
+#: inc/customizer.php:410
+msgid "Display Header Image on Front Page Only"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Display Header Image on Mobile"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Display Read More Link"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Display Scroll Up button"
+msgstr ""
+
+#: inc/customizer.php:339
+msgid "Display Search Form in the Top Menu"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Display the Home icon in the Main Menu"
+msgstr ""
+
+#: template-parts/content-page.php:46 inc/template-tags.php:114
+msgid "Edit"
+msgstr ""
+
+#: inc/customizer.php:441 inc/customizer.php:479
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:500 inc/customizer.php:547
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer.php:521 inc/customizer.php:568
+msgid "Featured Image Size"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Follow on Instagram"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Follow on Twitter"
+msgstr ""
+
+#: inc/customizer.php:184 inc/customizer.php:200
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Footer Background"
+msgstr ""
+
+#: functions.php:40
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:232
+msgid "Footer Widget Area Center"
+msgstr ""
+
+#: functions.php:223
+msgid "Footer Widget Area Left"
+msgstr ""
+
+#: functions.php:241
+msgid "Footer Widget Area Right"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "Full Content Post + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Full width"
+msgstr ""
+
+#: inc/customizer.php:526 inc/customizer.php:573
+msgid "Full width (images must be at least 1120px)"
+msgstr ""
+
+#. Name of the template
+msgid "Fullwidth Page Template"
+msgstr ""
+
+#: inc/customizer.php:145 inc/customizer.php:190
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "General Settings."
+msgstr ""
+
+#: functions.php:109
+msgid "Gray"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Grey"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Header Image Height"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Header Image Options"
+msgstr ""
+
+#: inc/customizer.php:360
+msgid "Header Image Width"
+msgstr ""
+
+#: inc/customizer.php:152 inc/customizer.php:307
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Homepage"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.designlabthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.designlabthemes.com/xmag-wordpress-theme/"
+msgstr ""
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:48
+msgid "https://www.designlabthemes.com/"
+msgstr ""
+
+#: functions.php:89
+msgid "Huge"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:84
+msgid "Large"
+msgstr ""
+
+#: inc/customizer.php:423 inc/customizer.php:463
+msgid "Layout"
+msgstr ""
+
+#: inc/template-tags.php:107
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Light"
+msgstr ""
+
+#: functions.php:114
+msgid "Light Gray"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "List: Medium Thumbnail + Sidebar"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "List: Small Thumbnail + Sidebar"
+msgstr ""
+
+#: functions.php:38 header.php:85
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Main Menu Style"
+msgstr ""
+
+#: functions.php:104
+msgid "Medium Gray"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Medium Thumbnail + Sidebar"
+msgstr ""
+
+#: header.php:101
+msgid "Menu"
+msgstr ""
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Minimal"
+msgstr ""
+
+#: template-parts/header/navigation-mobile.php:11
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/customizer.php:609
+msgid "Need more colors?"
+msgstr ""
+
+#: inc/customizer.php:266 inc/customizer.php:349 inc/customizer.php:452
+#: inc/customizer.php:490 inc/customizer.php:537
+msgid "Need more options?"
+msgstr ""
+
+#: comments.php:55 comments.php:73
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: template-parts/content-single.php:73
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:79
+msgid "Normal"
+msgstr ""
+
+#: search.php:23 template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:147
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-single.php:49 template-parts/content-page.php:37
+#: template-parts/content-large.php:39
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Post"
+msgstr ""
+
+#: footer.php:46
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: template-parts/content-single.php:72
+msgid "Previous Post"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Rate This Theme"
+msgstr ""
+
+#: template-parts/content.php:38 template-parts/content-large.php:51
+#: template-parts/content-search.php:40
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:152
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Set a custom background for the Main Menu"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Settings for Blog Index Page."
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Settings for Category, Tag, Search result, Author and Archive Pages."
+msgstr ""
+
+#: functions.php:214
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Site Options"
+msgstr ""
+
+#: inc/customizer.php:636
+msgid "Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Site Title"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:74
+msgid "Small"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Small Thumbnail + Sidebar"
+msgstr ""
+
+#: functions.php:41
+msgid "Social Menu"
+msgstr ""
+
+#: search.php:53
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Sticky Main Menu"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:100
+#, php-format
+msgid "Tag: %1$s"
+msgstr ""
+
+#: footer.php:48
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Theme Homepage"
+msgstr ""
+
+#: functions.php:39
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Try xMag Plus"
+msgstr ""
+
+#: inc/template-tags.php:26 inc/template-tags.php:76
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: template-parts/author-bio.php:20
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:77
+msgid "View xMag Plus"
+msgstr ""
+
+#: functions.php:119 inc/customizer.php:236
+msgid "White"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Widget Style"
+msgstr ""
+
+#. Name of the theme
+msgid "xMag"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"xMag is a free Magazine WordPress Theme. It features a simple and elegant "
+"design. This theme comes with great features for magazine, blog and news "
+"websites."
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "xMag Links"
+msgstr ""
+
+#: inc/customize-pro/class-customize.php:76
+msgid "xMag Plus"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "xMag Settings"
+msgstr ""
+
+#: functions.php:452
+msgid "Y"
+msgstr ""

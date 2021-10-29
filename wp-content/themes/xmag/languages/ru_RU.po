@@ -1,0 +1,560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xMag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-03 14:07+0000\n"
+"POT-Revision-Date: Fri Jul 08 2016 17:24:50 GMT+0200 (CEST)\n"
+"PO-Revision-Date: 2019-01-03 14:07+0000\n"
+"Last-Translator: fabio <fabiorubioglio@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один ответ на &ldquo;%s&rdquo;"
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr "%1$s ответ на &ldquo;%2$s&rdquo;"
+
+#: comments.php:53 comments.php:71
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:54 comments.php:72
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:55 comments.php:73
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: search.php:23 template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не нашлось"
+
+#: search.php:53
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но по вашему запросу ничего не нашлось. Пожалуйста, попробуйте "
+"использовать другие ключевые слова."
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:46
+#, php-format
+msgid "Powered by %s"
+msgstr "Работает на %s"
+
+#: footer.php:48
+msgid "https://www.designlabthemes.com/"
+msgstr ""
+
+#: footer.php:48
+#, php-format
+msgid "Theme by %s"
+msgstr "Тема от %s"
+
+#: functions.php:41 header.php:32 header.php:87
+msgid "Main Menu"
+msgstr "Основное меню"
+
+#: functions.php:42
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: functions.php:43
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: functions.php:44
+msgid "Social Menu"
+msgstr "Социальное меню"
+
+#. translators: If there are characters in your language that are not supported by Noto Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:92
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr "вкл"
+
+#. translators: If there are characters in your language that are not supported by Noto Serif, translate this to 'off'. Do not translate into your own language.
+#: functions.php:97
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr "вкл"
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:102
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "без замены"
+
+#: functions.php:173
+msgid "Sidebar"
+msgstr "Боковик"
+
+#: functions.php:175
+msgid "Add widgets here to appear in your Sidebar."
+msgstr ""
+
+#: functions.php:182
+msgid "Footer Widget Area Left"
+msgstr "Левая зона виджетов подвала"
+
+#: functions.php:191
+msgid "Footer Widget Area Center"
+msgstr "Центральная зона виджетов подвала"
+
+#: functions.php:200
+msgid "Footer Widget Area Right"
+msgstr "Правая зона виджетов подвала"
+
+#: functions.php:387
+msgid "Y"
+msgstr ""
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr "Мета"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+#: header.php:28
+msgid "Menu"
+msgstr "Меню"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Но данная страница не найдена."
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, что здесь ничего не удалось найти. Может стоит попробовать ссылки "
+"ниже или воспользоваться поиском?"
+
+#: template-parts/content-single.php:49 template-parts/content-page.php:37
+#: template-parts/content-large.php:39
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/content-single.php:72
+msgid "Previous Post"
+msgstr "Предыдущий пост"
+
+#: template-parts/content-single.php:73
+msgid "Next Post"
+msgstr "Следующий пост"
+
+#: template-parts/content.php:38 template-parts/content-large.php:51
+#: template-parts/content-search.php:40
+msgid "Read more"
+msgstr "Читать далее"
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы публиковать первый пост? <a href=\"%1$s\">Начинайте отсюда</a>."
+
+#: template-parts/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Похоже, что нельзя найти то что вам надо. Возможно, поиск сможет помочь."
+
+#: template-parts/content-page.php:46 inc/template-tags.php:114
+msgid "Edit"
+msgstr "Правка"
+
+#: template-parts/author-bio.php:20
+#, php-format
+msgid "View all posts by %s"
+msgstr "Просмотреть все посты от %s"
+
+#: inc/template-tags.php:26 inc/template-tags.php:76
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:92 inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:94
+#, php-format
+msgid "Category: %1$s"
+msgstr "Рубрика: %1$s"
+
+#: inc/template-tags.php:100
+#, php-format
+msgid "Tag: %1$s"
+msgstr "Метки: %1$s"
+
+#: inc/template-tags.php:107
+msgid "Leave a comment"
+msgstr "Прокомментировать"
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr "Комментариев: 1"
+
+#: inc/template-tags.php:109
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+#: inc/customizer.php:45
+msgid "Try xMag Plus"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Theme Homepage"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Follow on Instagram"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Follow on Twitter"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "xMag Settings"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "xMag Links"
+msgstr "Ссылки xMag"
+
+#: inc/customizer.php:145 inc/customizer.php:190
+msgid "General"
+msgstr "Основные"
+
+#: inc/customizer.php:148
+msgid "General Settings."
+msgstr "Основные настройки."
+
+#: inc/customizer.php:152 inc/customizer.php:307
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Settings for Blog Index Page."
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Categories and Archives"
+msgstr "Категории и архивы"
+
+#: inc/customizer.php:168
+msgid "Settings for Category, Tag, Search result, Author and Archive Pages."
+msgstr ""
+"Настройки для категорий, меток, результатов поиска, архивов авторов и постов."
+
+#: inc/customizer.php:172
+msgid "Post"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Page"
+msgstr "Страницы"
+
+#: inc/customizer.php:184 inc/customizer.php:200
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:195
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Full width"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Boxed"
+msgstr "Ограниченная"
+
+#: inc/customizer.php:231
+msgid "Widget Style"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Grey"
+msgstr "Серый"
+
+#: inc/customizer.php:236
+msgid "White"
+msgstr "Белый"
+
+#: inc/customizer.php:237
+msgid "Minimal"
+msgstr "Минималистичный"
+
+#: inc/customizer.php:246
+msgid "Site Options"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Display Read More Link"
+msgstr "Показывать ссылку дальнейшего чтения"
+
+#: inc/customizer.php:266 inc/customizer.php:349 inc/customizer.php:452
+#: inc/customizer.php:490 inc/customizer.php:537
+msgid "Need more options?"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Main Menu Style"
+msgstr "Стиль основного меню"
+
+#: inc/customizer.php:281
+msgid "Dark"
+msgstr "Темный"
+
+#: inc/customizer.php:282
+msgid "Light"
+msgstr "Светлый"
+
+#: inc/customizer.php:283
+msgid "Custom Background"
+msgstr "Свой фон"
+
+#: inc/customizer.php:296
+msgid "Set a custom background for the Main Menu"
+msgstr "Настройте свой фон для главного меню"
+
+#: inc/customizer.php:317
+msgid "Sticky Main Menu"
+msgstr "Плавающее главное меню"
+
+#: inc/customizer.php:328
+msgid "Display the Home icon in the Main Menu"
+msgstr "Показывать кнопку \"Домой\" в главном меню"
+
+#: inc/customizer.php:339
+msgid "Display Search Form in the Top Menu"
+msgstr "Показывать форму поиска в верхнем меню"
+
+#: inc/customizer.php:360
+msgid "Header Image Width"
+msgstr ""
+
+#: inc/customizer.php:361 inc/customizer.php:375
+msgid "After changing the size save and add a new image."
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Header Image Height"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Header Image Options"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Display Header Image on Mobile"
+msgstr "Показывать картинку в заголовке на мобильных устройствах"
+
+#: inc/customizer.php:410
+msgid "Display Header Image on Front Page Only"
+msgstr "Показывать картинку в заголовке только на главной странице"
+
+#: inc/customizer.php:423 inc/customizer.php:463
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "List: Small Thumbnail + Sidebar"
+msgstr "Список: Маленькая миниатюра + Боковик"
+
+#: inc/customizer.php:428
+msgid "List: Medium Thumbnail + Sidebar"
+msgstr "Список: Средняя миниатюра + Боковик"
+
+#: inc/customizer.php:429 inc/customizer.php:469
+msgid "Classic: Large Posts + Sidebar"
+msgstr "Классика: Большие посты + Боковик"
+
+#: inc/customizer.php:430
+msgid "Full Content Post + Sidebar"
+msgstr "Полное содержимое + Боковик"
+
+#: inc/customizer.php:441 inc/customizer.php:479
+msgid "Excerpt length"
+msgstr "Длина выдержки"
+
+#: inc/customizer.php:467
+msgid "Small Thumbnail + Sidebar"
+msgstr "Маленькая миниатюра + Боковик"
+
+#: inc/customizer.php:468
+msgid "Medium Thumbnail + Sidebar"
+msgstr "Средняя миниатюра + Боковик"
+
+#: inc/customizer.php:500 inc/customizer.php:547
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer.php:510 inc/customizer.php:557
+msgid "Display Featured Image"
+msgstr "Показывать изображение записи"
+
+#: inc/customizer.php:521 inc/customizer.php:568
+msgid "Featured Image Size"
+msgstr "Размер изображения записи"
+
+#: inc/customizer.php:525 inc/customizer.php:572
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:526 inc/customizer.php:573
+msgid "Full width (images must be at least 1120px)"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Display Scroll Up button"
+msgstr "Показывать кнопку перехода наверх"
+
+#: inc/customizer.php:599
+msgid "Accent Color"
+msgstr "Основной цвет"
+
+#: inc/customizer.php:609
+msgid "Need more colors?"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Header Background"
+msgstr "Фон заголовка"
+
+#: inc/customizer.php:636
+msgid "Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Footer Background"
+msgstr "Фон подвала"
+
+#. Name of the template
+msgid "Fullwidth Page Template"
+msgstr "Шаблон в полную ширину экрана"
+
+#: inc/customize-pro/class-customize.php:76
+msgid "xMag Plus"
+msgstr "xMag Plus"
+
+#: inc/customize-pro/class-customize.php:77
+msgid "View xMag Plus"
+msgstr "Ознакомиться с xMag Plus"
+
+#. Name of the theme
+msgid "xMag"
+msgstr "xMag"
+
+#. Description of the theme
+msgid ""
+"xMag is a free Magazine WordPress Theme. It features a simple and elegant "
+"design. This theme comes with great features for magazine, blog and news "
+"websites."
+msgstr ""
+"xMag - бесплатная журнальная тема для WordPress. Она отличается простым и "
+"элегантным внешним видом. Тема содержит отличные функции для журнального или "
+"новостного сайта и для блога."
+
+#. Theme URI of the theme
+msgid "http://www.designlabthemes.com/xmag-wordpress-theme/"
+msgstr "http://www.designlabthemes.com/xmag-wordpress-theme/"
+
+#. Author of the theme
+msgid "Design Lab"
+msgstr "Design Lab"
+
+#. Author URI of the theme
+msgid "http://www.designlabthemes.com/"
+msgstr ""
